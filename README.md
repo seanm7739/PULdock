@@ -1,3 +1,4 @@
 # PULdock
 # Introduction
-# method
+# Method
+# Usage
