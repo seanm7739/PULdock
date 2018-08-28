@@ -12,6 +12,20 @@ Our methods divide the surface area of receptor to several subspaces and evaluat
 
 # Usage
 
+# File formats
+
+- Reference genome files
+
+    All reference genome files should be in FASTA format.
+
+- Read files
+
+    All reads files should be in PDB or PDBQT format. PDB files can be convert into pdbqt format.
+
+- Output file
+
+    Output is 
+
 Kart: A divide-and-conquer algorithm for NGS read mapping with high error tolerance
 ===================
 
