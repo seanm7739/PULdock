@@ -14,13 +14,13 @@ Our methods divide the surface area of receptor to several subspaces and evaluat
 
 # File formats
 
-- Reference genome files
+- Reference files
 
-    All reference genome files should be in FASTA format.
+    All reference files should be in PDBQT format.
 
 - Read files
 
-    All reads files should be in PDB or PDBQT format. PDB files can be convert into pdbqt format.
+    All reads files should be in PDB or PDBQT format. PDB files can be convert into PDBQT format.
 
 - Output file
 
